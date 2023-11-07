@@ -6,3 +6,22 @@ My favourite memory is when the pie was made; you got to decorate it. They would
 The part I did not enjoy was when you had to pick up apples with your hands and no gloves. The hands would have gotten dirty, but there was a sanitization section to clean your hands before picking up the apples.
 
 Experience Rate: A+
+
+<style>
+
+h1{
+font-family: 'Vidaloka', serif;
+}
+
+body{
+font-family: 'Roboto', sans-serif;
+}
+
+</style>
+
+<style>
+
+body{
+    background-color:#CBC3E3;
+}
+</style>
